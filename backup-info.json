@@ -1,7 +1,7 @@
 {
-  "id": "backup-1749933470433",
-  "timestamp": 1749933470434,
-  "message": "Backup created at 2025-06-14T20:37:50.433Z",
+  "id": "backup-1749933806509",
+  "timestamp": 1749933806510,
+  "message": "Backup created at 2025-06-14T20:43:26.509Z",
   "tables": [
     "feeds",
     "items",
@@ -13,5 +13,5 @@
     "youtubeChannelCategoryMap",
     "videoQueueItems"
   ],
-  "size": 1499
+  "size": 21151
 }
